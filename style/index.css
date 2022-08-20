@@ -9,6 +9,10 @@ html, body{
   transition: 1s;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 .container{
   width: 75%;
   margin: 0 auto;
